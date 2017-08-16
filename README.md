@@ -1,0 +1,2 @@
+# Retrofit-HTTP-Library
+We have used Volley as networking library in lot of my articles. Today we are going to look at another awesome library Retrofit to make the http calls. Retrofit is denitely the better alternative to volley in terms of ease of use, performance, extensibility and other things. It is a type-­safe REST client for Android built by Square. Using this tool android developer can make all network stuff much more easier. As an example, we are going to download some json and show it in RecyclerView as a list.
